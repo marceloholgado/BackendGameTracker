@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="UseCases\GetGame\r3kd4ekf.fh2~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GameTracker.Application.Tests\GameTracker.Application.Tests.csproj" />
+    <ProjectReference Include="..\GameTracker.Domain\GameTracker.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

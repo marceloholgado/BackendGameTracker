@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\holga\\Desktop\\Projetos\\CSharp\\GameTracker\\backend\\GameTrackerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holga\\Desktop\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\Abstractions\\IGameRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF837F6-2E37-3DB1-2D4B-BF8041D6DDCA}|GameTracker.Api.csproj|c:\\users\\holga\\desktop\\projetos\\csharp\\gametracker\\backend\\gametrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF837F6-2E37-3DB1-2D4B-BF8041D6DDCA}|GameTracker.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF837F6-2E37-3DB1-2D4B-BF8041D6DDCA}|GameTracker.Api.csproj|c:\\users\\holga\\desktop\\projetos\\csharp\\gametracker\\backend\\gametrackerapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF837F6-2E37-3DB1-2D4B-BF8041D6DDCA}|GameTracker.Api.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF837F6-2E37-3DB1-2D4B-BF8041D6DDCA}|GameTracker.Api.csproj|c:\\users\\holga\\desktop\\projetos\\csharp\\gametracker\\backend\\gametrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDF837F6-2E37-3DB1-2D4B-BF8041D6DDCA}|GameTracker.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF837F6-2E37-3DB1-2D4B-BF8041D6DDCA}|GameTracker.Api.csproj|c:\\users\\holga\\desktop\\projetos\\csharp\\gametracker\\backend\\gametrackerapi\\filters\\apiexecptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF837F6-2E37-3DB1-2D4B-BF8041D6DDCA}|GameTracker.Api.csproj|solutionrelative:filters\\apiexecptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Entities\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Persistence\\GameContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\UpdateGame\\UpdateGameUseCase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Exceptions\\GameNotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\GetGame\\GetGameByTitleUseCase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\ValueObjects\\Player\\PlayerName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holga\\Desktop\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Entities\\Player.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Entities\\Player.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T00:09:47.394Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\Desktop\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\Abstractions\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C#\\GameTracker\\backend\\GameTracker.Application\\Abstractions\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\holga\\Desktop\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\Abstractions\\IGameRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C#\\GameTracker\\backend\\GameTracker.Application\\Abstractions\\IGameRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:30:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\Desktop\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\holga\\Desktop\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:27:58.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Persistence\\GameContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Persistence\\GameContext.cs",
+              "ToolTip": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Persistence\\GameContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Persistence\\GameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:05:43.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Infrastructure\\Repositories\\GameRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:05:10.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateGameUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\UpdateGame\\UpdateGameUseCase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\UpdateGame\\UpdateGameUseCase.cs",
+              "ToolTip": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\UpdateGame\\UpdateGameUseCase.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\UpdateGame\\UpdateGameUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:02:11.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\Desktop\\Projetos\\CSharp\\GameTracker\\backend\\GameTrackerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\holga\\Desktop\\Projetos\\CSharp\\GameTracker\\backend\\GameTrackerApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:01:48.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\holga\\Desktop\\Projetos\\CSharp\\GameTracker\\backend\\GameTrackerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\holga\\Desktop\\Projetos\\CSharp\\GameTracker\\backend\\GameTrackerApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T22:01:43.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\Desktop\\Projetos\\CSharp\\GameTracker\\backend\\GameTrackerApi\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\holga\\Desktop\\Projetos\\CSharp\\GameTracker\\backend\\GameTrackerApi\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:01:31.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Exceptions\\GameNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Exceptions\\GameNotFoundException.cs",
+              "ToolTip": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Exceptions\\GameNotFoundException.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\Exceptions\\GameNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:46:44.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiExecptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\Desktop\\Projetos\\CSharp\\GameTracker\\backend\\GameTrackerApi\\Filters\\ApiExecptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\ApiExecptionFilter.cs",
+              "ToolTip": "C:\\Users\\holga\\Desktop\\Projetos\\CSharp\\GameTracker\\backend\\GameTrackerApi\\Filters\\ApiExecptionFilter.cs",
+              "RelativeToolTip": "Filters\\ApiExecptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:47:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetGameByTitleUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\GetGame\\GetGameByTitleUseCase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\GetGame\\GetGameByTitleUseCase.cs",
+              "ToolTip": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\GetGame\\GetGameByTitleUseCase.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Application\\UseCases\\GetGame\\GetGameByTitleUseCase.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:46:50.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerName.cs",
+              "DocumentMoniker": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\ValueObjects\\Player\\PlayerName.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\ValueObjects\\Player\\PlayerName.cs",
+              "ToolTip": "C:\\Users\\holga\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\ValueObjects\\Player\\PlayerName.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\C#\\GameTracker\\backend\\GameTracker.Domain\\ValueObjects\\Player\\PlayerName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:16:18.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

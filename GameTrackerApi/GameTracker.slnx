@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../GameTracker.Application.Tests/GameTracker.Application.Tests.csproj" Id="17712d41-c5ad-46ad-9d8b-78502a81f62b" />
+  <Project Path="../GameTracker.Application/GameTracker.Application.csproj" Id="3d295190-74a6-4351-a22f-e94a11b256d5" />
+  <Project Path="../GameTracker.Domain.Tests/GameTracker.Domain.Tests.csproj" Id="4de60fb8-05aa-4c8a-8b4f-7878db9589e1" />
+  <Project Path="../GameTracker.Domain/GameTracker.Domain.csproj" Id="057be3f1-fa1c-4bcd-a33d-d8b9e50811bc" />
+  <Project Path="../GameTracker.Infrastructure.Tests/GameTracker.Infrastructure.Tests.csproj" Id="1b034f39-0603-4a5b-8237-64f31e147a88" />
+  <Project Path="../GameTracker.Infrastructure/GameTracker.Infrastructure.csproj" Id="9bb6a263-8fc4-4eba-ae95-b808198f116a" />
+  <Project Path="../GameTrackerTests/GameTracker.Api.Tests.csproj" />
+  <Project Path="GameTracker.Api.csproj" />
+</Solution>
